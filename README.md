@@ -6,7 +6,7 @@
 - :video_game: **Experience**: Development in Web Development & FiveM since 2020.
 - :handshake: **Age**: 17 years old
 
-## :tools: What I'm experienced with
+## 🛠️ What I'm experienced with
 - **Languages**: LUA, HTML, CSS and Python.
 - **Specialties**: Web Development & FiveM Scripting
 
