@@ -13,4 +13,4 @@
 
 ## :mailbox_closed: How to reach me
 <!--- **Discord**: [https://discord.gg/zeray](join my Discord Server)!--->
-- **Discord**: [join my Discord Server](https://discord.gg/bandit5m)
+- **Discord**: [Join My Discord Server](https://discord.gg/bandit5m)
