@@ -7,7 +7,8 @@
 - :handshake: **Age**: 17 years old
 
 ## 🛠️ What I'm experienced with
-- **Languages**: LUA, HTML, CSS and Python.
+- **Languages**: LUA, HTML, CSS, JavaScript and Typescript
+- **Frameworks**: Svelte
 - **Specialties**: Web Development & FiveM Scripting
 
 ## :mailbox_closed: How to reach me
